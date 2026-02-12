@@ -1,0 +1,41 @@
+__pycache__
+
+debug_html
+
+*.ipynb
+
+test.py
+test2.py
+urls.py
+
+*.db
+
+downloads/
+trafa_downloads/
+trafa_rss_downloads/
+
+*.xlsx
+
+trafa_rss_metadata.csv
+trafa_sitemap_metadata.csv
+
+
+# Environment variables
+.env
+.env.local
+# macOS
+.DS_Store
+# Logs
+*.log
+# Editor settings
+.vscode/
+.idea/
+*.swp
+*.swo
+# Python
+*.pyc
+*.pyo
+.Python
+
+
+ROADMAP.md
