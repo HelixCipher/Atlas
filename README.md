@@ -190,10 +190,21 @@ Organized by source and file type:
 
 Recent scrapes have collected:
 
-- **577 reports** from Tillväxtanalys (business analysis)
-- **132 RSS feed** snapshots from Trafikanalys
-- **106 PDF documents** (transport statistics and reports)
-- **19 Excel datasets** with transport data
+### Tillväxtanalys (Business Analysis)
+- **577 reports** in database
+- **12,132 PDF documents** downloaded
+
+### Trafikanalys (Transport Analysis)
+- **2,917 PDF documents** (transport statistics and reports)
+- **536 Excel datasets** with transport data
+- **130 RSS feed snapshots**
+- **289 RSS feed entries**
+
+### Totals
+- **15,049 PDF documents** (12,132 + 2,917)
+- **536 Excel datasets**
+- **577 database reports**
+- **130 RSS snapshots**
 
 Example queries on the data:
 
