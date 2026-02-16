@@ -1,8 +1,15 @@
 # Atlas
 
+<img align="left" width="250" height="250" src="project_image.png">
+
+
+
 **Web-scraping toolkit for Swedish authorities. Automates data collection with pagination, PDF crawling, metadata extraction, and multi-format export.**
 
 Atlas is a data collection toolkit designed to support Swedish government authorities in organizing and accessing their own public information. It automates the gathering of reports, statistics, and publications from agency websites, creating searchable, structured datasets.
+
+<br><br>
+
 
 ## Overview
 
